@@ -1,0 +1,7 @@
+<layout version="0.1.0">
+    <checkout_onepage_success>
+        <reference name="before_body_end">
+            <block type="kiosked/tracking" name="kiosked_tracking" as="kiosked_tracking" />
+        </reference>
+    </checkout_onepage_success>
+</layout>
