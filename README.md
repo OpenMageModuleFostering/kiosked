@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 Kiosked extension allows Magento merchants to upload their product feed into Kiosked. The feed is dynamically updated to reflect up-to-date product availability and price. Kiosked automatically turns your products into kiosks that allow you to reach your consumers wherever they are.
